@@ -1,0 +1,1 @@
+* DOM manipulation exercise 1 from TOP (The Odin Project)
